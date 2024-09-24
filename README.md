@@ -22,7 +22,7 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/travel-app.git
+   git clone https://github.com/ktripathi2611/travel-app.git
    cd travel-app
    ```
 
